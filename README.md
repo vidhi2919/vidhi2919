@@ -9,7 +9,7 @@ I'm a tech enthusiast with a passion for learning and exploring new skills and t
 **Tools**: Git, Visual Studio Code
 
 
-**How to reach me**
+**How to reach me**:
 Feel free to reach out to me on LinkedIn https://www.linkedin.com/in/vidhi-arora-20828b285 or via email on aroravidhi342@gmail.com for any collaboration or just to say hi!
 [![vidhi2919's GitHub | Stats](https://stats.quine.sh/vidhi2919/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=vidhi2919)
 <!---
