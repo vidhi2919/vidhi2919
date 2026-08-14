@@ -12,7 +12,7 @@
 
 * 💻 **Computer Science & Engineering (AI)** undergraduate at **IGDTUW**
 * 🏢 **Product Intern(SDE)'26 @ Adobe**, where I worked on **MCPs, AI agents, and Adobe Campaign**
-* * 📚 **DESIS Ascend Educare Scholar — D.E. Shaw**
+* 📚 **DESIS Ascend Educare Scholar — D.E. Shaw**
 * 🤖 Interested in **AI/ML, Generative AI, backend engineering, and intelligent systems**
 * 🧠 Currently strengthening my **DSA & software engineering fundamentals**
 * 🔬 Worked on research involving **optimization algorithms and machine learning**
