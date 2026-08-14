@@ -16,7 +16,6 @@
 * 🧠 Currently strengthening my **DSA & software engineering fundamentals**
 * 🔬 Worked on research involving **optimization algorithms and machine learning**
 * 🏆 **Innovortex 2.0 AI Track Winner**
-* 🎓 **NXP Women in Technology Scholar**
 * 👩‍🏫 Mentor at **Super30**, helping students with DSA and computer science fundamentals
 
 ---
