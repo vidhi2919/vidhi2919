@@ -11,7 +11,8 @@
 ## 🚀 about me
 
 * 💻 **Computer Science & Engineering (AI)** undergraduate at **IGDTUW**
-* 🏢 **Software Engineering Intern @ Adobe**, where I worked on **MCPs, AI agents, and Adobe Campaign**
+* 🏢 **Product Intern(SDE)'26 @ Adobe**, where I worked on **MCPs, AI agents, and Adobe Campaign**
+* * 📚 **DESIS Ascend Educare Scholar — D.E. Shaw**
 * 🤖 Interested in **AI/ML, Generative AI, backend engineering, and intelligent systems**
 * 🧠 Currently strengthening my **DSA & software engineering fundamentals**
 * 🔬 Worked on research involving **optimization algorithms and machine learning**
@@ -109,18 +110,6 @@ A technology-driven platform focused on **human trafficking prevention**, combin
 
 ---
 
-## 🏆 achievements
-
-* 🏢 **Software Engineering Intern — Adobe**
-* 🏆 **Winner — Innovortex 2.0 AI Track**
-* 🎓 **NXP Women in Technology Scholar**
-* 👩‍💻 **#IncludeHer Cohort 4.0**
-* 📚 **DESIS Ascend Educare Scholar — D.E. Shaw**
-* 🔬 **Research paper accepted at WCSC 2026**
-* 👩‍🏫 **Mentor — Super30**
-
----
-
 ## 🔬 research
 
 Interested in the intersection of **AI, optimization, and intelligent systems**.
@@ -145,7 +134,6 @@ System Design       ███████████░░░░░░░  leve
 
 When I'm not coding, I'm usually:
 
-* 🏃‍♀️ Training with the athletics team
 * 👩‍🏫 Mentoring students
 * 💡 Brainstorming product ideas
 * 🔬 Reading about AI and research
