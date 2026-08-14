@@ -118,18 +118,6 @@ My research work has involved adaptive optimization approaches and comparisons w
 
 ---
 
-## 📈 currently
-
-```text
-DSA                 ███████████████░░░  getting stronger
-Backend             ████████████████░░  building
-AI / GenAI          ████████████████░░  exploring
-Research            ██████████████░░░░  learning
-System Design       ███████████░░░░░░░  leveling up
-```
-
----
-
 ## 🌱 beyond code
 
 When I'm not coding, I'm usually:
