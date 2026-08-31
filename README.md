@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ tech stack
+##  tech stack
 
 ### Languages
 
@@ -59,9 +59,9 @@
 
 ---
 
-## 💡 featured projects
+##  featured projects
 
-### 🔍 TxnSight — AI-powered Fraud Detection
+###  TxnSight — AI-powered Fraud Detection
 
 A fraud detection system focused on identifying suspicious transaction patterns through **graph-based analysis and intelligent risk scoring**.
 
@@ -74,7 +74,7 @@ A fraud detection system focused on identifying suspicious transaction patterns 
 
 ---
 
-### 🤝 SmartLend — P2P Lending Platform
+###  SmartLend — P2P Lending Platform
 
 A peer-to-peer lending platform designed to connect borrowers and lenders using intelligent matching and risk analysis.
 
@@ -82,7 +82,7 @@ A peer-to-peer lending platform designed to connect borrowers and lenders using 
 
 ---
 
-### ⚖️ Legal-AI
+###  Legal-AI
 
 An AI-powered legal document processing system for **OCR, summarization, and document analysis**.
 
@@ -90,7 +90,7 @@ An AI-powered legal document processing system for **OCR, summarization, and doc
 
 ---
 
-### 🛡️ Anti-Spoofing Detector
+###  Anti-Spoofing Detector
 
 A deep-learning based system for detecting facial spoofing attacks.
 
@@ -102,7 +102,7 @@ A deep-learning based system for detecting facial spoofing attacks.
 
 ---
 
-### 🕊️ AASHA
+###  AASHA
 
 A technology-driven platform focused on **human trafficking prevention**, combining intelligent analysis with location-based capabilities.
 
@@ -110,7 +110,7 @@ A technology-driven platform focused on **human trafficking prevention**, combin
 
 ---
 
-## 🔬 research
+##  research
 
 Interested in the intersection of **AI, optimization, and intelligent systems**.
 
@@ -118,21 +118,21 @@ My research work has involved adaptive optimization approaches and comparisons w
 
 ---
 
-## 🌱 beyond code
+##  beyond code
 
 When I'm not coding, I'm usually:
 
-* 👩‍🏫 Mentoring students
-* 💡 Brainstorming product ideas
-* 🔬 Reading about AI and research
-* 📚 Learning something new
+*  Mentoring students
+*  Brainstorming product ideas
+*  Reading about AI and research
+*  Learning something new
 
 ---
 
-## 🤝 let's connect
+##  let's connect
 
 I'm always happy to talk about **software engineering, AI/ML, interesting projects, research, hackathons, or just building cool things.**
 
 <p align="center">
-  <i>build → learn → break → repeat 🚀</i>
+  <i>build → learn → break → repeat </i>
 </p>
