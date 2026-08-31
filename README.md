@@ -1,4 +1,4 @@
-# Hey, I'm Vidhi 👋
+# Hey, I'm Vidhi 
 
 **B.Tech CSE-AI @ IGDTUW '27 · Software Developer · AI/ML · Builder**
 
@@ -8,16 +8,16 @@
 
 ---
 
-## 🚀 about me
+##  about me
 
-* 💻 **Computer Science & Engineering (AI)** undergraduate at **IGDTUW**
-* 🏢 **Product Intern(SDE)'26 @ Adobe**, where I worked on **MCPs, AI agents, and Adobe Campaign**
-* 📚 **DESIS Ascend Educare Scholar — D.E. Shaw**
-* 🤖 Interested in **AI/ML, Generative AI, backend engineering, and intelligent systems**
-* 🧠 Currently strengthening my **DSA & software engineering fundamentals**
-* 🔬 Worked on research involving **optimization algorithms and machine learning**
-* 🏆 **Innovortex 2.0 AI Track Winner**
-* 🏆 **HackVeda Winner**
+*  **Computer Science & Engineering (AI)** undergraduate at **IGDTUW**
+*  **Product Intern(SDE)'26 @ Adobe**, where I worked on **MCPs, AI agents, and Adobe Campaign**
+*  **DESIS Ascend Educare Scholar — D.E. Shaw**
+*  Interested in **AI/ML, Generative AI, backend engineering, and intelligent systems**
+*  Currently strengthening my **DSA & software engineering fundamentals**
+*  Worked on research involving **optimization algorithms and machine learning**
+*  **Innovortex 2.0 AI Track Winner**
+*  **HackVeda Winner**
 
 ---
 
