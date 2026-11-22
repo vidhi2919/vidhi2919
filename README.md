@@ -11,7 +11,7 @@
 ##  about me
 
 *  **Computer Science & Engineering (AI)** undergraduate at **IGDTUW**
-*  **Product Intern(SDE)'26 @ Adobe**, where I worked on **MCPs and Adobe Campaign**
+*  **Product Intern(SDE)'26 @ Adobe**, where I worked on **building Adobe Campaign MCP server for the CX CoWorker platform**
 *  **DESIS Ascend Educare Scholar — D.E. Shaw**
 *  Interested in **AI/ML, Generative AI, backend engineering, and intelligent systems**
 *  Currently strengthening my **DSA & software engineering fundamentals**
@@ -126,6 +126,8 @@ When I'm not coding, I'm usually:
 *  Brainstorming product ideas
 *  Reading about AI and research
 *  Learning something new
+*  Reading novels
+*  Watching a good series : )
 
 ---
 
